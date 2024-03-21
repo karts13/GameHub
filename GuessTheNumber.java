@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class GuessTheNumber {
-    public static void main(String[] args) {
+    public static void play() {
         Scanner reader = new Scanner(System.in);
         Random rand = new Random();
         String play = "yes";

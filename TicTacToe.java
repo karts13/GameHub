@@ -4,7 +4,7 @@ public  class TicTacToe {
     private static char[][] board = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
     private static char currentPlayer = 'X';
 
-    public static void main(String[] args) {
+    public static void play() {
         displayBoard();
         playGame();
     }
