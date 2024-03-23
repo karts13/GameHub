@@ -15,16 +15,16 @@ public class Main {
 
         switch (choice) {
             case 1:
-                RockPaperScissor.play();
+                RockPaperScissor.main(args);
                 break;
             case 2:
-                Connect4.play();
+                Connect4.main(args);;
                 break;
             case 3:
-                GuessTheNumber.play();
+                GuessTheNumber.main(args);;
                 break;
             case 4:
-                TicTacToe.play();
+                TicTacToe.main(args);;
                 break;
             default:
                 System.out.println("Invalid choice");

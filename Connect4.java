@@ -122,7 +122,7 @@ public class Connect4 {
         }
     }
 
-    public static void play() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Connect4 game = new Connect4();
 
