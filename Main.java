@@ -8,7 +8,7 @@ public class Main {
         System.out.println("1. Play Rock Paper Scissors");
         System.out.println("2. Play Connect 4");
         System.out.println("3. Play Guess the Number");
-        System.out.println("4. Play Another Game");
+        System.out.println("4. Play Tic-Tac-Toe");
         System.out.println("Enter the corresponding number to select the game:");
 
         int choice = scanner.nextInt();

@@ -23,7 +23,7 @@
 >    ```
 >    java Main
 >    ```
-> 4. Upon running the program, a menu will be displayed with two options shown in ********
+> 4. Upon running the program, a menu will be displayed with two options shown in [Output 2](https://github.com/karts13/GameHub/blob/main/README.md#sample-outputs).
 > 5. Enter the number corresponding to your preferred game and press Enter.
 > 6. Enter the GameHub atmosphere and enjoy playing the game of your choice.
 
@@ -35,8 +35,30 @@
 > 
 > Please feel free to add any customizations that reflect your creativity.
 
-## Sample Output
-
+## Sample Outputs
+> ![Text Editor](https://github.com/karts13/GameHub/assets/126340629/70f4629d-8b8a-4445-b335-9e6f2181c6ac)
+> :--:
+> <b>Text Editor</b>
+>
+> ![Game Menu](https://github.com/karts13/GameHub/assets/126340629/e7a1225e-6f78-4894-aefc-f5f9997e01f9)
+> :--:
+> <b>Game Menu</b>
+>
+> ![Rock Paper Scissors](https://github.com/karts13/GameHub/assets/126340629/ddd8abb1-91fb-4453-84b3-6f1552d7165c)
+> :--:
+> <b>Rock Paper Scissors</b>
+>
+> ![Connect 4](https://github.com/karts13/GameHub/assets/126340629/5e27e6d6-1f19-4796-ac88-28a00e4bb4f9)
+> :--:
+> <b>Connect 4</b>
+>
+> ![Guess The Number](https://github.com/karts13/GameHub/assets/126340629/f9febdb2-f403-4942-859c-9fa12c6bc43b)
+> :--:
+> <b>Guess The Number</b>
+>
+> ![Tic Tac Toe](https://github.com/karts13/GameHub/assets/126340629/b05a7084-606f-4d21-9df4-f6f9c95bb90a)
+> :--:
+> <b>Tic Tac Toe</b>
 
 ## Contributions
 
